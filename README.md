@@ -17,8 +17,6 @@ My objectives in this learning endeavor include:
 
 
 - `basics/` - Basics of Ink Language.
-- `contracts/` - Sample smart contracts 
-written in ink.
 - `frontend/` - This folder contains the  frontend for ink!  
 
 ## How to Use This Repository
